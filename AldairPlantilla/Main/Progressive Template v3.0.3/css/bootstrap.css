@@ -2443,7 +2443,9 @@ pre code {
 }
 
 /* line 35, ../sass/bootstrap/mixins/_grid-framework.scss */
-
+/*.col-xs-12 {
+  width: 100%;
+}*/
 /* line 55, ../sass/bootstrap/mixins/_grid-framework.scss */
 .col-xs-pull-0 {
   right: auto;
